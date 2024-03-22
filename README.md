@@ -18,4 +18,9 @@
 ### ![](https://github.com/Berezhok/deVops_netology/blob/main/img/git_log.png)
 ### Push я делал в самом конце и там естественно немного все отличалось, добавил папку img с картинками, еще один коммит.
 ### ![](https://github.com/Berezhok/deVops_netology/blob/main/img/push.png)
-
+### -------------------------------------------------------------------------
+### Доработка
+### Добавил каталог Terraform в папку с репозиторием. Там добавил файл .gitignore с правилами
+### ![](https://github.com/Berezhok/deVops_netology/blob/main/img/ter_ignore.png)
+### 
+### 
